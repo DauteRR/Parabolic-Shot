@@ -25,9 +25,9 @@ Trajectories visualization |  Shot simulation
 :-------------------------:|:-------------------------:
 <img src="gifs/3.gif" width="450" height="350"/>  |  <img src="gifs/4.gif" width="450" height="350" />
 
-Axis scale
-:-------------------------:
-<img src="gifs/5.gif" width="450" height="350"/>
+Axis scale                 |
+:-------------------------:|
+<img src="gifs/5.gif" width="450" height="350"/>  |
 
 ## Execution
 
